@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvertApi", "AdvertApi.csproj", "{8B7DFF9B-F67D-45E4-A113-65AE5D763F47}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "/AdvertApi", "AdvertApi\AdvertApi.csproj", "{8B7DFF9B-F67D-45E4-A113-65AE5D763F47}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvertApi.Models", "..\AdvertApi.Models\AdvertApi.Models.csproj", "{451DB2FE-6208-4D66-8945-B6B49FA78A29}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "/AdvertApi.Models", "AdvertApi.Models\AdvertApi.Models.csproj", "{451DB2FE-6208-4D66-8945-B6B49FA78A29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
